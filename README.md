@@ -23,6 +23,14 @@ A mobile grocery application developed using Flutter with basic user authenticat
 - Cart Screen  
 - Order Screen  
 
+## 📸 Screenshots
+
+![Login]login.PNG
+![Register]regiser.PNG
+![Products]product.PNG
+![Cart]add to cart.PNG
+![Orders]order.PNG
+
 ## 🎯 Purpose
 This project is built to practice Flutter development and demonstrate UI/UX skills.
 
